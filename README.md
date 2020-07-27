@@ -2,8 +2,6 @@
 
 **Single Cell RNA Sequence Data Analysis On Cancerous Tumours (Ongoing)**
 
-*Cancer Biology Laboratory, Indian Institute of Technology, Guwahati, India*
-
 + Used single cell RNA sequencing databases in cancerous tumours from various tissues (oral, breast) to identify the anomalous differential
 levels of gene expression due to excess cell division.
 
